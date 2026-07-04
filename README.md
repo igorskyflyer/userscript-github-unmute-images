@@ -19,6 +19,7 @@
 
 - ✨ [**Features**](#features)
 - 🕵🏼 [**Usage**](#usage)
+- 🧩 [**Compatibility**](#compatibility)
 - 🎯 [**Motivation**](#motivation)
 - 📝 [**Changelog**](#changelog)
 - 🪪 [**License**](#license)
@@ -41,8 +42,18 @@
 
 ## Usage
 
-Install the script via Greasyfork or a UserScript manager (Tampermonkey, Violentmonkey, Greasemonkey).  
+Install the script via Greasyfork or another UserScript manager (Tampermonkey, Violentmonkey, Greasemonkey).  
 The script runs automatically on `github.com` and requires no configuration. Once installed, the muted gray background applied to broken or fallback images is removed on page load and persists across GitHub's soft navigation without needing a manual refresh.
+
+<br>
+
+## Compatibility
+
+- Chrome
+- Firefox
+- Safari
+- Edge
+- Opera
 
 <br>
 
