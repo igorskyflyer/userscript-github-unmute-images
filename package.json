@@ -1,0 +1,29 @@
+{
+  "description": "🖼️ A UserScript that removes the muted background color from images on GitHub. 🦦",
+  "devDependencies": {
+    "@biomejs/biome": "^2.5.2",
+    "@igorskyflyer/biome-config": "^2.4.1"
+  },
+  "license": "GPL-3.0-or-later",
+  "author": "Igor Dimitrijević <support@igorskyflyer.me> (https://github.com/igorskyflyer)",
+  "funding": "https://ko-fi.com/igorskyflyer",
+  "homepage": "https://github.com/igorskyflyer/userscript-github-unmute-images",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/igorskyflyer/userscript-github-unmute-images.git"
+  },
+  "bugs": {
+    "url": "https://github.com/igorskyflyer/userscript-github-unmute-images/issues"
+  },
+  "keywords": [
+    "github",
+    "unmute",
+    "images",
+    "userscript",
+    "javascript",
+    "style",
+    "ui",
+    "igor dimitrijević",
+    "igorskyflyer"
+  ]
+}
