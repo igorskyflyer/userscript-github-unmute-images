@@ -52,6 +52,8 @@ GitHub applies a muted gray background to images that fail to load or fall back 
 
 This script overrides that background with a single injected CSS rule, targeting only the fallback image class so no other GitHub UI elements are affected.
 
+<br>
+
 ## Changelog
 
 Read about the latest changes in the [**CHANGELOG**](https://github.com/igorskyflyer/userscript-github-unmute-images/blob/main/CHANGELOG.md).
