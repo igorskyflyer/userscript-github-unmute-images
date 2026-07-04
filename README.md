@@ -91,5 +91,7 @@ Licensed under the [**GPL-3.0-or-later**](https://github.com/igorskyflyer/usersc
   </blockquote>
 </div>
 
+<br>
+
 ## Author
 Created by **Igor Dimitrijević ([*@igorskyflyer*](https://github.com/igorskyflyer/))**.
